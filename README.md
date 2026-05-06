@@ -3,5 +3,5 @@
   <br />
   <br />
   <H4>Visitor Count</H4>
-  <img src="https://count.getloli.com/get/@sharpeye08?theme=rule34" />
+  <img src="https://count.getloli.com/get/@divyaaaani?theme=rule34" />
 </div>
